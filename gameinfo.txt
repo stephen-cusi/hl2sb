@@ -33,7 +33,8 @@ FileSystem
 			game+mod			hl2sb/custom/*
 			game+mod            hl2sb/addons/*
 			// Read the custom content of hl2
-			game+mod			hl2/custom/*
+			// 因为某些bicuh的hl2自定义包括一些影响游戏行为很大的东西的原因，我不得不禁用这个😂
+			// game+mod			hl2/custom/*
 
 
 			// We search VPK files before ordinary folders, because most files will be found in
