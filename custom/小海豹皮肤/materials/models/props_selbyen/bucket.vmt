@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_selbyen/bucket"
+	"$basealphaenvmapmask" "1"
+	"$envmap"		"env_cubemap"
+	"$envmapcontrast"		"1"
+	"$envmapsaturation"	".5"
+//	"$envmaptint"		"[ .5 .5 .5 ]"
+}

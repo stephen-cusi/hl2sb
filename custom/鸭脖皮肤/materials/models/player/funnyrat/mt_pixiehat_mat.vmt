@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{	
+	"$baseTexture" "models\player\funnyrat\mt_Pixiehat_mat"
+	"$bumpmap" "models\player\funnyrat\mt_Pixiehat_mat_NRM"
+}

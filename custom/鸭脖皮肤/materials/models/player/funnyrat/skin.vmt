@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\funnyrat\skin"
+
+	"$halflambert" "1"
+	"$alphatest" "1"
+	"$alphatestreference" ".5"
+	"$allowalphatocoverage" "1"
+	//"$nocull" "1"
+}

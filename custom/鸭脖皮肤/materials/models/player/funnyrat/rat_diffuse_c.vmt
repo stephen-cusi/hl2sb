@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{	
+	"$baseTexture" "models/player/funnyrat/Rat_Diffuse_C"
+	"$bumpmap" "models/player/funnyrat/Rat_Normal"
+ 	"$blendtintbybasealpha" "1"
+ 	"$blendtintcoloroverbase" "0"
+
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		1 0 0
+		}
+	}
+}

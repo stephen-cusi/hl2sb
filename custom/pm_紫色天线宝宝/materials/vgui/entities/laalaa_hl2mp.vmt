@@ -1,0 +1,8 @@
+
+"UnlitGeneric"
+{
+"$basetexture" "vgui/entities/laalaa_hl2mp"
+"$vertexcolor" 1
+"$vertexalpha" 1
+"$nolod" 1
+}
