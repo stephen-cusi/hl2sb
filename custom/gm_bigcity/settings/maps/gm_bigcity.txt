@@ -1,0 +1,12 @@
+"Maps"
+{
+	"Garry's Mod"
+	{
+		"gm_bigcity"
+		{
+			"Credits"	"Bigwig"
+			"Material"	"maps/gm_bigcity"	
+		}
+	}
+	
+}

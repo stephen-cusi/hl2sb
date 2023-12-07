@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"gm_bigcity"
+	"version"			"2.0"
+	"up_date"			"December 2008"
+	"author_name"			"Bigwig"
+	"author_email"			"BigwigML@gmail.com"
+	"info"				"Beep beep it's a big city!"
+	"override"			"0"
+}
